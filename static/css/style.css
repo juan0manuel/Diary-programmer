@@ -4,12 +4,12 @@ body::-webkit-scrollbar {
   }
   
   body::-webkit-scrollbar-track {
-    background: #0F172A;        /* the colour of the track zone */
+    background: #0F172A;        /* el color de la zona de la pista */
   }
   
   body::-webkit-scrollbar-thumb {
-    background-color: rgba(30, 41, 59, 0.4);    /* the slider's colour */
-    border-radius: 20px;       /* the slider's roundness */
+    background-color: rgba(30, 41, 59, 0.4);    /* el color del deslizador */
+    border-radius: 20px;       /* la redondez del deslizador */
     border: none;
   }
 
